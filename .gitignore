@@ -1,0 +1,5 @@
+*_sl.*
+dft*
+node_modules/
+*.txt
+*.pem
