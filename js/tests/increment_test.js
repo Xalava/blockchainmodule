@@ -1,5 +1,6 @@
 // /*/ // ⚡
-
+export const tests = []
+const t = (f) => tests.push(f) 
 t(() => Buffer.compare(increment("01"), Buffer.from("02","hex"))===0)
 t(() => Buffer.compare(increment("10"), Buffer.from("11","hex"))===0)
 t(() => Buffer.compare(increment("ff"), Buffer.from("0100","hex"))===0)
