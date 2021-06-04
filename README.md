@@ -14,3 +14,19 @@ Example:
 ~/blockchainmodule/Quest1 Crypto $ node test.mjs basicWallet
 ```
 
+
+
+
+
+Questions:
+
+Solidity syntax highlighetr
+
+npm i -g hardhat-shorthand
+
+
+Tests (waffle)
+export NODE_ENV=test && mocha 'test/**/*.js'
+
+Tests hardhat
+npx hardhat test test/name.test.js

@@ -13,11 +13,11 @@ From a practical point of view, for today, you only need the builtin library `cr
 
 # Content
 ## Mandatory
-1. [Increment](increment.md) _Binary variables in nodejs_
-2. [hashFile](hashFile.md) _Hash functions, file read in nodejs_
-3. [hash160](hash160.md) _Hash functions, double hash, sha256, Ripemd160_
-4. [semiBrute](semiBrute.md) _Hash bruteforce_
-5. [signer](signer.md) _ECDSA_
+1. [Increment](increment/README.md) _Binary variables in nodejs_
+2. [hashFile](hashFile/README.md) _Hash functions, file read in nodejs_
+3. [hash160](hash160/README.md) _Hash functions, double hash, sha256, Ripemd160_
+4. [semiBrute](semiBrute/README.md) _Hash bruteforce_
+5. [signer](signer/README.md) _ECDSA_
 ## Optional
-6. [generateAddress](generateAddress.md) _Key generation, Crypto address_
-7. [basicWallet](basicWallet.md) _Key storage, transaction signature_
+6. [generateAddress](generateAddress/README.md) _Key generation, Crypto address_
+7. [basicWallet](basicWallet/README.md) _Key storage, transaction signature_

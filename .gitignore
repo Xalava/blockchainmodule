@@ -1,5 +1,11 @@
 *_sl.*
+*.sl.*
 dft*
-node_modules/
+*.sol
+
 *.txt
 *.pem
+
+package-lock.json
+node_modules/
+.vscode
